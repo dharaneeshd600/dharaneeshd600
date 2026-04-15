@@ -20,7 +20,7 @@
 ## ⚡ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,github,vscode,altium designer,tinkercad" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,github,vscode" />
 </p>
 
 ---
