@@ -1,134 +1,102 @@
-<h1 align="center">👋 Hi, I'm DHARANEESH A</h1>
-<h3 align="center">🚀 PCB Designer | Web Developer</h3>
+<h1 align="center">👋 Hi, I'm Dharaneesh A</h1>
+<h3 align="center">⚡ ECE Student | PCB Designer | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=PCB+Designer;Web+Developer;" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackdaisy2026-commits&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=PCB+Designer;Web+Developer;Electronics+Engineer;Hardware+%2B+Software+Builder;Future+Engineer+🚀" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-🚀 Building **real-world AI systems** that solve impactful problems  
-🤖 Specialized in **LLMs, NLP, and RAG architectures**  
-🏆 Hackathon Winner | **TN-iMPACT Top 5 Finalist**  
-☁️ Working with **AWS & Google Cloud**  
-💡 Founder @ **Axentus Software & Services**  
+🚀 Passionate Electronics and Communication Engineering student  
+🔧 Skilled in **PCB Design & Circuit Analysis**  
+💻 Web Developer focused on **Frontend Technologies**  
+⚡ Interested in building **real-world hardware + software solutions**  
+🎯 Goal: To become a skilled engineer in both **Core & IT fields**  
 
 ---
 
 ## ⚡ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,mysql,aws,gcp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,git,github,vscode" />
 </p>
 
 ---
 
-## 🧪 AI Expertise  
+## 🔧 Core Skills  
 
 <p align="center">
-🧠 Machine Learning • NLP • LLMs • Prompt Engineering • RAG • Data Analytics  
+📌 PCB Design (Altium Designer) • Circuit Analysis • Electronic Systems  
 </p>
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🤖 AI Chatbot (LLM + NLP)  
-✔ Automated hostel management system  
-✔ Real-time intelligent response system  
-✔ Cloud deployment  
-
----
-
-### 🌾 AgriTrace TN  
-✔ Blockchain-based agricultural supply chain  
-✔ QR traceability system  
-🏆 **4th Place — TN-iMPACT (1000+ participants, 410+ teams)**  
-
----
-
-### 🏙️ Smart Infrastructure System  
-✔ AI + IoT monitoring  
-✔ Predictive alert system  
-✔ Real-time analytics dashboard  
-
----
-
-### 🚦 Signet  
-✔ Smart traffic system using ML + IoT  
-✔ Emergency vehicle prioritization  
-
----
-
-## 📊 GitHub Analytics  
+## 💻 Development Skills  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackdaisy2026-commits&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdaisy2026-commits&theme=tokyonight&hide_border=true" />
+🌐 HTML • CSS • JavaScript • Basic Backend Concepts  
 </p>
+
+---
+
+## 🚀 Projects  
+
+### 🎮 Smart Slide Controller  
+✔ Designed compact PCB-based controller using Altium Designer  
+✔ Developed hardware solution for smart classroom presentations  
+✔ Improved portability and usability  
+
+---
+
+### 💼 Job Portal Management System  
+✔ Developed web application for job seekers & employers  
+✔ Features: Registration, Job Posting, Application Tracking  
+✔ Built using HTML, CSS, JavaScript  
 
 ---
 
 ## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackdaisy2026-commits&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackdaisy2026-commits&theme=tokyo-night&hide_border=true" />
-</p>
+✔ Presented research paper at **ICECMSN 2025 Conference**  
+✔ Developed real-time PCB-based hardware project  
+✔ Built functional web-based application system  
+✔ Completed multiple technical certifications  
 
 ---
 
-## 🐍 Contribution Snake Animation  
+## 📜 Certifications  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blackdaisy2026-commits/blackdaisy2026-commits/output/github-contribution-grid-snake.svg" />
-</p>
+✔ Microsoft Azure AI Fundamentals (AI-900)  
+✔ AWS Cloud (S3)  
+✔ Advanced Diploma in Java Programming  
+✔ Data Science Certification  
+✔ PCB Design (Altium)  
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dharshan-hariharan-a51277290">
+<a href="https://www.linkedin.com/in/dharaneesh-a-4287bb290">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://dharshan-hariharan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+<a href="https://github.com/dharaneeshd600">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="mailto:dharshanhariharan2468@gmail.com">
+<a href="mailto:dharaneeshd114@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
 ---
 
-## 🧠 Quote of the Day  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Fun Fact  
 
-💡 I don’t just write code — I build **intelligent systems that think**
+💡 I don’t just design circuits — I build **complete hardware + software solutions**
 
 ---
 
