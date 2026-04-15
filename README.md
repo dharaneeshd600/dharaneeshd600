@@ -2,7 +2,7 @@
 <h3 align="center">🚀 PCB Designer | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;LLM+%7C+NLP+Specialist;RAG+Systems+Builder;Hackathon+Winner+🏆;Smart+City+AI+Developer;Future+Tech+Leader+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=PCB+Designer;Web+Developer;" />
 </p>
 
 ---
