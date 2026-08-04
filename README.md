@@ -67,8 +67,8 @@
 ---
 
 ## 📜 Certifications  
-
-✔ Microsoft Azure AI Fundamentals (AI-900)  
+✔ Microsoft Certified: Azure AI Engineer Associate (AI-102)
+✔ Microsoft Certified: Azure AI Fundamentals (AI-900)  
 ✔ AWS Cloud (S3)  
 ✔ Advanced Diploma in Java Programming  
 ✔ Data Science Certification  
