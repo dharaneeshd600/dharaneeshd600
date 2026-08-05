@@ -95,11 +95,9 @@
 <a href="https://www.linkedin.com/in/dharaneesh-a-4287bb290">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
-
 <a href="https://github.com/dharaneeshd600">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
-
 <a href="mailto:dharaneeshd114@gmail.com">a
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
