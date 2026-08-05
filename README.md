@@ -57,6 +57,19 @@
 
 ---
 
+## 💼 Internship
+
+### 🏢 Intern – Popular Systems, Coimbatore
+📅 **Duration:** June 27, 2025 – July 27, 2025 (1 Month)
+
+✔ Successfully completed a one-month industrial internship under professional guidance
+✔ Gained practical exposure to industry workflows and professional work environments
+✔ Assisted in technical tasks, documentation, and day-to-day project activities
+✔ Enhanced teamwork, communication, problem-solving, and time-management skills
+✔ Successfully completed all assigned responsibilities with dedication and professionalism
+
+---
+
 ## 🏆 Achievements  
 
 ✔ Presented research paper at **ICECMSN 2025 Conference**  
@@ -67,7 +80,8 @@
 ---
 
 ## 📜 Certifications  
-✔ Microsoft Certified: Azure AI Engineer Associate (AI-102) & Azure AI Fundamentals (AI-900)  
+
+✔ Microsoft Azure AI Fundamentals (AI-900)  
 ✔ AWS Cloud (S3)  
 ✔ Advanced Diploma in Java Programming  
 ✔ Data Science Certification  
@@ -86,7 +100,7 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="mailto:dharaneeshd114@gmail.com">
+<a href="mailto:dharaneeshd114@gmail.com">a
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
