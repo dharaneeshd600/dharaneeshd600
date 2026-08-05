@@ -58,6 +58,7 @@
 ---
 
 ## 💼 Internship
+
 🏢 Intern – Popular Systems, Coimbatore
 📅 **Duration:** June 27, 2025 – July 27, 2025 (1 Month)
 
