@@ -98,7 +98,7 @@
 <a href="https://github.com/dharaneeshd600">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
-<a href="mailto:dharaneeshd114@gmail.com">a
+<a href="mailto:dharaneeshd114@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
