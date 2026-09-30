@@ -284,12 +284,6 @@ Used for deploying and hosting web applications and portfolio projects.
 
 💡 <b>I don't just design circuits — I build complete hardware + software solutions.</b>
 
-</p>
-
----
-
-<p align="center">
-
 ⭐ <b>If you like my work, consider giving a star!</b> ⭐
 
 </p>
