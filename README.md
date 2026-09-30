@@ -29,12 +29,16 @@
 ## 🎓 Education
 
 **🎓 Bachelor of Engineering – Electronics and Communication Engineering**
+
 M. Kumarasamy College of Engineering, Karur
-📅 2023 – 2027 | 📊 CGPA: **6.87**
+
+📅 2023 – 2027 
 
 **🏫 Higher Secondary Certification**
+
 Kalaimagal Matric Hr. Sec. School
-📅 2022 – 2023 | 📊 Percentage: **64.83%**
+
+📅 2022 – 2023
 
 ---
 
@@ -94,7 +98,7 @@ Used for deploying and hosting web applications and portfolio projects.
 ## 🔧 Electronics & PCB Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino" height="50"/>
+<img src="https://skillicons.dev/icons?i=altium designer" height="50"/>
 </p>
 
 **Altium Designer** • **PCB Design** • **Circuit Analysis** • **Electronic Systems**
