@@ -98,7 +98,7 @@ Used for deploying and hosting web applications and portfolio projects.
 ## 🔧 Electronics & PCB Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=altium designer" height="50"/>
+  <img src="https://cdn.simpleicons.org/altiumdesigner" height="50" alt="Altium Designer"/>
 </p>
 
 **Altium Designer** • **PCB Design** • **Circuit Analysis** • **Electronic Systems**
