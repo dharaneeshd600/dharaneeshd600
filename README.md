@@ -1,185 +1,321 @@
 <h1 align="center">👋 Hi, I'm Dharaneesh A</h1>
-<h3 align="center">⚡ ECE Student | PCB Designer | Web Developer</h3>
+
+<h3 align="center">
+  ⚡ ECE Student | 🔧 PCB Designer | 💻 Web Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=PCB+Designer;Web+Developer;Electronics+Engineer;Hardware+%2B+Software+Builder;Future+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=PCB+Designer;Web+Developer;Electronics+Engineer;Hardware+%2B+Software+Builder;Java+Developer;AI+%26+Technology+Enthusiast;Future+Engineer+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dharaneeshd600&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-🚀 Passionate Electronics and Communication Engineering student
-🔧 Skilled in **PCB Design & Circuit Analysis**
-💻 Web Developer focused on **Frontend Technologies**
-⚡ Interested in building **real-world hardware + software solutions**
-🤖 Interested in **AI technologies and smart technology solutions**
-☕ Skilled in **Java Programming**
-🎯 Goal: To become a skilled engineer in both **Core & IT fields**
+🎓 Electronics and Communication Engineering student at **M. Kumarasamy College of Engineering, Karur**
+
+🔧 Interested in **PCB Design, Circuit Analysis, and Electronic Systems**
+
+💻 Developing skills in **Frontend Web Development and Java Programming**
+
+🤖 Exploring **AI technologies and smart technology solutions**
+
+⚡ Interested in combining **Hardware + Software** to develop practical solutions
+
+🎯 Career interest in both **Core Electronics and IT/Software Development**
 
 ---
 
 ## 🎓 Education
 
-### 🎓 Bachelor of Engineering – Electronics and Communication Engineering
+### 🎓 Bachelor of Engineering
 
-**M. Kumarasamy College of Engineering, Karur**
+**Electronics and Communication Engineering**
+
+🏫 M. Kumarasamy College of Engineering, Karur
+
 📅 2023 – 2027
-📊 **CGPA: 6.87**
 
 ### 🏫 Higher Secondary Certification
 
 **Kalaimagal Matric Hr. Sec. School**
+
 📅 2022 – 2023
-📊 **Percentage: 64.83%**
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,github,vscode" />
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+• HTML
+• CSS
+• JavaScript
+
 ---
 
-## 🔧 Core Skills
+### 💻 Backend & Programming
 
-<p align="center">
-📌 PCB Design (Altium Designer) • Circuit Analysis • Electronic Systems
+<p>
+<img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
+• Java
+• Python
+• Basic Backend Development
+• Object-Oriented Programming
+
 ---
 
-## 💻 Development Skills
+### 🗄️ Database
 
-<p align="center">
-🌐 HTML • CSS • JavaScript • Java • MySQL (Basic) • Basic Backend Concepts
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+• MySQL
+• Basic Database Management
+• SQL Queries
+• Database Connectivity
+
 ---
 
-## 🧠 Areas of Interest
+### 🔧 PCB & Electronics
 
-<p align="center">
-💻 Web Development • 🔧 PCB Design • ⚡ Electronics • ☕ Java Programming • 🤖 AI Technologies
+• Altium Designer
+• PCB Design
+• Circuit Analysis
+• Electronic Systems
+• Hardware Prototyping
+• Tinkercad
+
+---
+
+### 🛠️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
----
-
-## 🤝 Soft Skills
-
-<p align="center">
-⏱️ Time Management • 👥 Leadership • 💡 Problem Solving • 🤝 Teamwork • 🗣️ Communication
-</p>
+• Visual Studio Code
+• GitHub
+• MySQL Workbench
+• XAMPP
+• Antigravity
 
 ---
 
-## 🚀 Projects
+### 🤖 AI & Productivity Tools
 
-### 🎮 Smart Slide Controller
-
-✔ Designed compact PCB-based controller using **Altium Designer**
-✔ Developed a hardware solution for smart classroom presentations
-✔ Designed the system as a **compact single-PCB hardware solution**
-✔ Focused on portability and usability for handheld operation
-✔ Suitable for smart classroom environments
+• ChatGPT
+• Claude
+• Gemini
+• Lovable
 
 ---
 
-### 💼 Job Portal Management System
+### ☁️ Deployment & Web Platforms
 
-✔ Developed web application for **job seekers & employers**
-✔ Features: Registration, Job Posting, Application Tracking
-✔ Built using **HTML, CSS, JavaScript and MySQL**
-✔ Used **XAMPP** for backend/database support
-✔ Designed with a simple and user-friendly interface
-
----
-
-### ☀️ AI Based Hybrid Charging Optimization
-
-✔ Designed a **dual-charging solar electric vehicle system**
-✔ Integrates **solar and conventional power sources**
-✔ Focused on efficient, eco-friendly and cost-effective charging
-✔ Developed using **Tinkercad software and hardware simulation**
-✔ Explored intelligent charging optimization for hybrid power sources
+• Vercel
+• Netlify
+• GitHub Pages
+• Lovable
 
 ---
 
-## 💼 Internship
+# 🧠 Areas of Interest
 
-### 🏢 Intern – Popular Systems, Coimbatore
+🔧 **PCB Design**
 
-📅 **Duration: June 27, 2025 – July 27, 2025 (1 Month)**
+💻 **Web Development**
 
-✔ Successfully completed a one-month industrial internship under professional guidance
-✔ Gained practical exposure to industry workflows and professional work environments
-✔ Assisted in technical tasks, documentation, and day-to-day project activities
-✔ Enhanced teamwork, communication, problem-solving, and time-management skills
-✔ Successfully completed all assigned responsibilities with dedication and professionalism
+☕ **Java Programming**
 
----
+🤖 **Artificial Intelligence**
 
-## 🏆 Achievements
+⚡ **Electronics & Hardware**
 
-✔ Presented research paper at **ICECMSN 2025 Conference**
-✔ Developed real-time PCB-based hardware project
-✔ Built functional web-based application system
-✔ Developed an AI-based hybrid solar-grid EV charging project
-✔ Completed multiple technical certifications
+🗄️ **Database Development**
+
+🌐 **Full-Stack Development**
 
 ---
 
-## 📜 Certifications
+# 🚀 Projects
 
-✔ **Microsoft Certified: Azure AI Fundamentals (AI-900)** — Scored **964/1000**
-✔ **Microsoft Certified: Azure AI Engineer Associate (AI-102)** — Scored **862/1000**
-✔ **AWS Cloud (S3)**
-✔ **Advanced Diploma in Java Programming – Grade A**
-✔ **Certified in Data Science**
-✔ **Certified in Altium Education – PCB Basic Design Course**
-✔ **Altium Designer Essentials: Mastering the Fundamentals Certification**
+## 🎮 Smart Slide Controller
+
+🔧 **Technology:** Altium Designer
+
+📌 Designed a compact PCB-based controller for smart classroom presentations.
+
+📌 Developed the system as a compact single-PCB hardware solution.
+
+📌 Focused on portability and usability for handheld operation.
 
 ---
 
-## 📚 Research Publication
+## 💼 Job Portal Management System
 
-### 📄 ICECMSN 2025
+💻 **Technology:** HTML, CSS, JavaScript, MySQL, XAMPP
 
-**5th International Conference on Evolutionary Computing and Mobile Sustainable Networks (ICECMSN 2025)**
+📌 Developed a web application connecting job seekers and employers.
 
-📌 **Paper Title:**
+📌 Implemented user registration.
+
+📌 Added job posting functionality.
+
+📌 Added application tracking features.
+
+📌 Designed a simple and user-friendly interface.
+
+---
+
+## ☀️ AI Based Hybrid Charging Optimization
+
+⚡ **Technology:** Tinkercad, Hardware & Software
+
+📌 Designed a dual-charging solar electric vehicle system.
+
+📌 Integrated solar and conventional power sources.
+
+📌 Focused on efficient, eco-friendly, and cost-effective charging.
+
+📌 Explored intelligent charging optimization for hybrid power sources.
+
+---
+
+# 💼 Internship
+
+## 🏢 Popular Systems – Coimbatore
+
+📅 **June 27, 2025 – July 27, 2025**
+
+📌 Completed a one-month industrial internship.
+
+📌 Gained practical exposure to professional work environments.
+
+📌 Assisted with technical tasks and documentation.
+
+📌 Developed teamwork and communication skills.
+
+📌 Improved problem-solving and time-management skills.
+
+---
+
+# 🏆 Achievements
+
+🏅 Presented research paper at **ICECMSN 2025**
+
+🔧 Developed a **PCB-based hardware project**
+
+💻 Developed a **web-based application system**
+
+☀️ Developed an **AI-based hybrid solar-grid EV charging project**
+
+📜 Completed multiple technical certifications
+
+---
+
+# 📜 Certifications
+
+🏆 **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+📊 Score: **964/1000**
+
+🏆 **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
+📊 Score: **862/1000**
+
+☁️ **AWS Cloud – S3**
+
+☕ **Advanced Diploma in Java Programming – Grade A**
+
+📊 **Data Science Certification**
+
+🔧 **Altium Education – PCB Basic Design Course**
+
+🔧 **Altium Designer Essentials – Mastering the Fundamentals**
+
+---
+
+# 📚 Research Publication
+
+## 📄 ICECMSN 2025
+
+**5th International Conference on Evolutionary Computing and Mobile Sustainable Networks**
+
+### Research Paper
+
 **“Forecasting-Aided Safe Reinforcement Learning for Hybrid Solar-Grid EV Charging with Dual-Battery Optimization”**
 
-🏛️ **Hindusthan Institute of Technology, Coimbatore, India**
+🏛️ Hindusthan Institute of Technology
+📍 Coimbatore, India
 
 ---
 
-## 🌐 Connect With Me
+# 🤝 Soft Skills
+
+⏱️ Time Management
+
+👥 Leadership
+
+🤝 Teamwork
+
+💬 Communication
+
+💡 Problem Solving
+
+---
+
+# 📊 GitHub
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharaneeshd600&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneeshd600&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/dharaneesh-a-4287bb290">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/dharaneeshd600">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:dharaneeshd114@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </p>
 
 ---
 
-## 🔥 Fun Fact
+# 🔥 Fun Fact
 
-💡 I don’t just design circuits — I build **complete hardware + software solutions**
+💡 **I don't just design circuits — I build complete hardware + software solutions.**
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+
+### ⭐ If you like my work, consider giving a star!
+
+**⚡ Build • Learn • Create • Innovate 🚀**
+
 </p>
