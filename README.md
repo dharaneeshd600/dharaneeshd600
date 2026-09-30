@@ -5,11 +5,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=PCB+Designer;Web+Developer;Electronics+Engineer;Java+%7C+Python+Developer;Hardware+%2B+Software+Builder;Future+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=PCB+Designer;Web+Developer;Electronics+Engineer;Java+%7C+Python+Developer;Hardware+%2B+Software+Builder;Future+Engineer+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharaneeshd600&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dharaneeshd600&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 * 🔧 Interested in **PCB Design and Circuit Analysis**
 * 💻 Interested in **Web Development and Software Development**
 * ☕ Working with **Java and Python**
-* 🤖 Exploring **AI Technologies and AI-powered development tools**
+* 🤖 Exploring **AI Technologies and AI-assisted development tools**
 * ⚡ Interested in building **real-world hardware + software solutions**
 * 🎯 Career interest across **Core Electronics and IT fields**
 
@@ -28,17 +28,17 @@
 
 ## 🎓 Education
 
-**🎓 Bachelor of Engineering – Electronics and Communication Engineering**
+### 🎓 Bachelor of Engineering – Electronics and Communication Engineering
 
-M. Kumarasamy College of Engineering, Karur
+**M. Kumarasamy College of Engineering, Karur**
 
-📅 2023 – 2027 
+📅 **2023 – 2027**
 
-**🏫 Higher Secondary Certification**
+### 🏫 Higher Secondary Certification
 
-Kalaimagal Matric Hr. Sec. School
+**Kalaimagal Matric Hr. Sec. School**
 
-📅 2022 – 2023
+📅 **2022 – 2023**
 
 ---
 
@@ -47,9 +47,9 @@ Kalaimagal Matric Hr. Sec. School
 ## 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
 </p>
 
 **HTML** • **CSS** • **JavaScript**
@@ -59,8 +59,8 @@ Kalaimagal Matric Hr. Sec. School
 ## 💻 Backend & Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
 </p>
 
 **Java** • **Python** • **Basic Backend Development**
@@ -70,26 +70,39 @@ Kalaimagal Matric Hr. Sec. School
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
 </p>
 
 **MySQL** • **MySQL Workbench** • **Database Fundamentals**
 
 ---
 
-## 🛠️ Development & Productivity Tools
+## 🛠️ Development & AI Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github" height="50" alt="Development Tools"/>
 </p>
 
-**VS Code** • **Antigravity** • **GitHub** • **ChatGPT** • **Claude** • **Gemini** • **Lovable**
+<p>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge" height="35" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" height="35" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge" height="35" alt="Lovable"/>
+</p>
+
+**VS Code** • **GitHub** • **Antigravity** • **ChatGPT** • **Claude** • **Gemini** • **Lovable**
 
 ---
 
 ## ☁️ Deployment & Hosting
 
-**▲ Vercel** • **Netlify** • **GitHub**
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="35" alt="Netlify"/>
+</p>
+
+**Vercel** • **Netlify** • **GitHub**
 
 Used for deploying and hosting web applications and portfolio projects.
 
@@ -98,7 +111,7 @@ Used for deploying and hosting web applications and portfolio projects.
 ## 🔧 Electronics & PCB Design
 
 <p>
-  <img src="https://cdn.simpleicons.org/altiumdesigner" height="50" alt="Altium Designer"/>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" height="40" alt="Altium Designer"/>
 </p>
 
 **Altium Designer** • **PCB Design** • **Circuit Analysis** • **Electronic Systems**
@@ -113,8 +126,8 @@ Used for deploying and hosting web applications and portfolio projects.
 
 ## 🔬 Project Design & Simulation
 
-<p align="left">
-<b>🧩 Tinkercad</b>
+<p>
+  <img src="https://img.shields.io/badge/Tinkercad-1477D4?style=for-the-badge&logo=autodesk&logoColor=white" height="40" alt="Tinkercad"/>
 </p>
 
 **Tinkercad** • **Hardware Simulation** • **Circuit Prototyping** • **Electronic Project Design**
@@ -220,6 +233,7 @@ Used for deploying and hosting web applications and portfolio projects.
 **5th International Conference on Evolutionary Computing and Mobile Sustainable Networks**
 
 📌 **Paper:**
+
 **“Forecasting-Aided Safe Reinforcement Learning for Hybrid Solar-Grid EV Charging with Dual-Battery Optimization”**
 
 🏛️ Hindusthan Institute of Technology, Coimbatore, India
@@ -253,15 +267,15 @@ Used for deploying and hosting web applications and portfolio projects.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dharaneesh-a-4287bb290">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/dharaneeshd600">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:dharaneeshd114@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </p>
@@ -271,15 +285,11 @@ Used for deploying and hosting web applications and portfolio projects.
 # 📊 GitHub Profile
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dharaneeshd600&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=dharaneeshd600&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneeshd600&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneeshd600&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
