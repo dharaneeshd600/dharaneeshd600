@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=PCB+Designer;Web+Developer;Electronics+Engineer;Java+%7C+Python+Developer;Hardware+%2B+Software+Builder;Future+Engineer+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharaneeshd600&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🧠 About Me
